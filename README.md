@@ -18,8 +18,27 @@ A curated list of resources dedicated to face recognition.
 **Raspberry Pi Face Recognition**
 - URL: <https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/>
 
+**Face recognition with OpenCV, Python, and deep learning**
+- URL: <https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/>
+
 ### dlib
 - github: <https://github.com/davisking/dlib>
 
 ### face_recognition
 - github: <https://github.com/ageitgey/face_recognition>
+
+### openface
+- github: <https://github.com/cmusatyalab/openface>
+
+### facenet
+- github: <https://github.com/davidsandberg/facenet>
+
+### OpenFace
+- github: <https://github.com/TadasBaltrusaitis/OpenFace>
+
+### openbr
+- github: <https://github.com/biometrics/openbr>
+
+### insightface
+- github: <https://github.com/deepinsight/insightface>
+
