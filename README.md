@@ -15,6 +15,9 @@ A curated list of resources dedicated to face recognition.
 ## Code
 
 ### PyImageSearch
+**Face clustering with Python**
+- URL: <https://www.pyimagesearch.com/2018/07/09/face-clustering-with-python/>
+
 **Raspberry Pi Face Recognition**
 - URL: <https://www.pyimagesearch.com/2018/06/25/raspberry-pi-face-recognition/>
 
@@ -41,4 +44,7 @@ A curated list of resources dedicated to face recognition.
 
 ### insightface
 - github: <https://github.com/deepinsight/insightface>
+
+### sphereface
+- github: <https://github.com/wy1iu/sphereface>
 
