@@ -48,3 +48,6 @@ A curated list of resources dedicated to face recognition.
 ### sphereface
 - github: <https://github.com/wy1iu/sphereface>
 
+### seetaface
+- github: <https://github.com/seetaface/SeetaFaceEngine> , <https://github.com/seetaface/SeetaFaceEngine2>
+
